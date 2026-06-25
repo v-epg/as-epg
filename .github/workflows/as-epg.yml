@@ -54,7 +54,6 @@ jobs:
             --output astro_epg.xml \
             --keep-days ${{ github.event.inputs.keep_days || '14' }} \
             --workers ${{ github.event.inputs.workers || '8' }} \
-            --no-details \
             --gz
 
       - name: Show Stats
