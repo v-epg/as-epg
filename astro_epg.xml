@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="astro-epg" source-info-name="Astro" source-info-url="https://www.astro.com.my/live-tv">
+  <channel id="astro395">
+    <display-name lang="ms">TV1 HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro396">
+    <display-name lang="ms">TV2 HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro106">
+    <display-name lang="en">TV3</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro193">
+    <display-name lang="ms">Astro Ria</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro316">
+    <display-name lang="ms">Astro Prima</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro315">
+    <display-name lang="ms">Astro Oasis</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro301">
+    <display-name lang="ms">Astro Citra</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro401">
+    <display-name lang="ms">Astro Rania</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro400">
+    <display-name lang="ms">Astro Aura</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro149">
+    <display-name lang="ms">Al-Hijrah</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro365">
+    <display-name lang="en">Colors Hindi HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro490">
+    <display-name lang="en">Z Cinema HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro429">
+    <display-name lang="ms">TV Sarawak</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro467">
+    <display-name lang="ms">TV Okey HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro93">
+    <display-name lang="en">NTV7</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro115">
+    <display-name lang="zh">8TV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro48">
+    <display-name lang="en">TV9</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro397">
+    <display-name lang="en">Astro Vaanavil</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro167">
+    <display-name lang="en">Astro Vinmeen</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro399">
+    <display-name lang="en">Astro Vellithirai HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro358">
+    <display-name lang="en">SUN TV HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro417">
+    <display-name lang="en">Sun Music HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro67">
+    <display-name lang="en">Adithya</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro478">
+    <display-name lang="en">Sun News</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro477">
+    <display-name lang="en">KTV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro476">
+    <display-name lang="en">Sun Life</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro357">
+    <display-name lang="en">Star Vijay HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro298">
+    <display-name lang="en">Colors Tamil HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro297">
+    <display-name lang="en">Z Tamil HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro177">
+    <display-name lang="en">Astro Thangathirai</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro355">
+    <display-name lang="zh">iQIYI HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro425">
+    <display-name lang="zh">TVB Classic HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro182">
+    <display-name lang="zh">Astro AEC</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro158">
+    <display-name lang="zh">Astro QJ</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro134">
+    <display-name lang="zh">Celestial Movies HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro203">
+    <display-name lang="zh">TVB Jade</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro172">
+    <display-name lang="zh">Astro AOD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro424">
+    <display-name lang="zh">CTI Asia HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro427">
+    <display-name lang="zh">TVB Entertainment News HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro383">
+    <display-name lang="zh">TVB Xing He HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro384">
+    <display-name lang="zh">TVBS Asia HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro187">
+    <display-name lang="zh">Celestial Classic Movies</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro382">
+    <display-name lang="zh">Phoenix Chinese Channel HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/382_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro43">
+    <display-name lang="zh">Phoenix Info News HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro162">
+    <display-name lang="zh">Astro Hua Hee Dai</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro385">
+    <display-name lang="zh">CCTV4 HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro161">
+    <display-name lang="en">KBS World HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro133">
+    <display-name lang="en">ONE HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro190">
+    <display-name lang="en">tvN HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro266">
+    <display-name lang="en">K-Plus HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro428">
+    <display-name lang="en">NHK World Premium</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro391">
+    <display-name lang="en">HITS MOVIES HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro251">
+    <display-name lang="en">Astro Boo</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro604">
+    <display-name lang="en">Astro Showtime</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/604_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro603">
+    <display-name lang="en">Astro FAM Time</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/603_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro454">
+    <display-name lang="en">Astro Showcase</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro601">
+    <display-name lang="en">Rock Action</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/601_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro605">
+    <display-name lang="en">Rock X Stream</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/605_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro274">
+    <display-name lang="en">tvN Movies HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro436">
+    <display-name lang="ms">Astro Awani HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro160">
+    <display-name lang="ms">Bernama TV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro426">
+    <display-name lang="en">CGTN HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/426_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro336">
+    <display-name lang="en">CNN HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro366">
+    <display-name lang="en">BBC News HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/366_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro374">
+    <display-name lang="en">Al Jazeera English HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro295">
+    <display-name lang="en">CNA HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro423">
+    <display-name lang="en">CNBC Asia HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro422">
+    <display-name lang="en">Bloomberg TV HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro461">
+    <display-name lang="en">ABC Australia HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/461_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro472">
+    <display-name lang="en">Love Nature 4K</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/472_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro483">
+    <display-name lang="en">Love Nature</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro376">
+    <display-name lang="en">Discovery Channel HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro136">
+    <display-name lang="en">Discovery Asia HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro452">
+    <display-name lang="en">BBC Earth</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro144">
+    <display-name lang="en">History HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro587">
+    <display-name lang="en">CGTN Documentary</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/587_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro411">
+    <display-name lang="ms">Astro Tutor TV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/411_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro386">
+    <display-name lang="ms">Astro Ceria</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro371">
+    <display-name lang="en">Cartoon Network HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro370">
+    <display-name lang="en">Nickelodeon HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro392">
+    <display-name lang="en">Nick Jr.</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro465">
+    <display-name lang="en">Moonbug</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro566">
+    <display-name lang="en">Blippi &amp; Friends</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/566_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro131">
+    <display-name lang="en">AXN HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro524">
+    <display-name lang="en">HITS NOW</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/524_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro447">
+    <display-name lang="en">Lifetime HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro179">
+    <display-name lang="en">HITS HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro338">
+    <display-name lang="en">TLC HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro91">
+    <display-name lang="en">Asian Food Network HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro369">
+    <display-name lang="en">Crime &amp; Investigation HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro198">
+    <display-name lang="en">HGTV HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro235">
+    <display-name lang="ms">Astro Arena</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro457">
+    <display-name lang="en">Astro Arena 2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro486">
+    <display-name lang="en">Arena Bola</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro487">
+    <display-name lang="en">Arena Bola 2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro308">
+    <display-name lang="ms">Astro Sports UHD 805</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro543">
+    <display-name lang="en">Astro Grandstand</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro536">
+    <display-name lang="en">Astro Premier League</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro537">
+    <display-name lang="en">Astro Premier League 2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro539">
+    <display-name lang="en">Astro Football</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro540">
+    <display-name lang="en">Astro Badminton</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro542">
+    <display-name lang="en">Astro Sports Plus</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro280">
+    <display-name lang="en">Astro Sports Plus 2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro236">
+    <display-name lang="en">beIN SPORTS 1</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro466">
+    <display-name lang="en">beIN SPORTS 2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro313">
+    <display-name lang="en">beIN SPORTS 3</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro503">
+    <display-name lang="en">W-Sport</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro189">
+    <display-name lang="en">Astro Golf</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro600">
+    <display-name lang="en">CricBuzz</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro393">
+    <display-name lang="en">Premier Sports</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro17">
+    <display-name lang="en">HITZ FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro15">
+    <display-name lang="zh">MY FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro19">
+    <display-name lang="en">LITE FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro18">
+    <display-name lang="en">MIX FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro14">
+    <display-name lang="ms">ERA FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro26">
+    <display-name lang="ms">SINAR FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro28">
+    <display-name lang="zh">MELODY FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro30">
+    <display-name lang="en">THR RAAGA</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro20">
+    <display-name lang="en">CLASSIC ROCK</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro21">
+    <display-name lang="en">GOLD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro16">
+    <display-name lang="en">OPUS</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro22">
+    <display-name lang="en">THR GEGAR</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro23">
+    <display-name lang="en">INDIA BEAT</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro24">
+    <display-name lang="en">JAZZ</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro27">
+    <display-name lang="en">OSAI</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro31">
+    <display-name lang="ms">BAYU</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro32">
+    <display-name lang="ms">KENYALANG</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro292">
+    <display-name lang="en">ZAYAN</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro293">
+    <display-name lang="en">GOXUAN</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro287">
+    <display-name lang="en">DW English</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro289">
+    <display-name lang="en">France24</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/289_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro175">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/175_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro148">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/148_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro146">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/146_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro152">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/152_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro238">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/238_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro173">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/173_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro125">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/125_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro174">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/174_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro242">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/242_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro265">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/265_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro142">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/142_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro404">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/404_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro413">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/413_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro150">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/150_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro416">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/416_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro240">
+    <display-name lang="en">Astro First HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/240_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+  <channel id="astro394">
+    <display-name lang="en">Smithsonian Channel</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/394_144.png"/>
+    <url>https://www.astro.com.my/live-tv</url>
+  </channel>
+</tv>
