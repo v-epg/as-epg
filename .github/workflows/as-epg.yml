@@ -1,0 +1,73 @@
+name: Astro EPG Daily Grab
+
+on:
+  schedule:
+    - cron: "35 16 * * *"   # Daily 10:05 PM MYT (16:35 UTC)
+  workflow_dispatch:
+    inputs:
+      debug:
+        description: "Run in debug mode"
+        required: false
+        default: "false"
+      keep_days:
+        description: "Days of EPG to keep (default: 14)"
+        required: false
+        default: "14"
+      workers:
+        description: "Parallel workers (default: 8)"
+        required: false
+        default: "8"
+
+permissions:
+  contents: write
+
+jobs:
+  grab-epg:
+    name: Grab Astro EPG → XMLTV
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Checkout Private Repo
+        uses: actions/checkout@v4
+        with:
+          repository: vgit-push/astro
+          token: ${{ secrets.PRIVATE_REPO_PAT }}
+          path: private-src
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Grab EPG
+        env:
+          SUNNXT_PROXY: ${{ secrets.SUNNXT_PROXY }}
+        run: |
+          python3 private-src/astro_epg.py \
+            --output astro_epg.xml \
+            --keep-days ${{ github.event.inputs.keep_days || '14' }} \
+            --workers ${{ github.event.inputs.workers || '8' }} \
+            --no-details \
+            --gz
+
+      - name: Show Stats
+        run: |
+          ls -lh astro_epg.xml astro_epg.xml.gz
+          echo "Channels   : $(grep -c '<channel' astro_epg.xml)"
+          echo "Programmes : $(grep -c '<programme' astro_epg.xml)"
+
+      - name: Commit EPG XML
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add astro_epg.xml astro_epg.xml.gz
+          git diff --staged --quiet && exit 0
+          git commit -m "EPG Update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
